@@ -1,6 +1,8 @@
 # PB
 DA project
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Asma-Zahouani/PB/main?labpath=index.ipynb)
+
 ## Ceci est un mini projet 
 
 
