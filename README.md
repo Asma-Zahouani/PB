@@ -5,7 +5,7 @@ DA project
 
 
 ## :file_folder: dataset
-data set des athletes daté de 1900 jusqu'à 2012 du :year:
+data set des athletes :date: de 1900 jusqu'à 2012 du :year:
 
 |    |   id | name                     | sex   |   age |   height |   weight | team           | noc   | games       |   year | season   | city      | sport         | event                            | medal   |
 |---:|-----:|:-------------------------|:------|------:|---------:|---------:|:---------------|:------|:------------|-------:|:---------|:----------|:--------------|:---------------------------------|:--------|
