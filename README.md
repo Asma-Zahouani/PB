@@ -4,7 +4,7 @@ DA project
 ## Ceci est un mini projet 
 
 
-## :file_folder : dataset
+## :file_folder: dataset
 data set des athletes daté de 1900 jusqu'à 2012 du :year:
 
 |    |   id | name                     | sex   |   age |   height |   weight | team           | noc   | games       |   year | season   | city      | sport         | event                            | medal   |
